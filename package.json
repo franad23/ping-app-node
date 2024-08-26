@@ -1,0 +1,19 @@
+{
+  "name": "pingtestingnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ping": "^0.4.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1"
+  }
+}
